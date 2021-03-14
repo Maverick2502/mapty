@@ -1,1 +1,1 @@
-![](Screenshots/mapty.jpg)
+![](screenshots/mapty.jpg)
